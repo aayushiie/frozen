@@ -11,4 +11,4 @@ This web page is a small nostalgic ode to the movie 'frozen' and a reminder to a
 To view the website, visit: [Do you wanna build a snowman?](https://do-you-wanna-build-a-snowman.netlify.app/)
 
 If you want to host the website locally, you can clone this repository using the following command:
-git clone https://github.com/your-username/frozen.git
+```git clone https://github.com/aayushiie/frozen.git```
